@@ -1,1 +1,26 @@
-
+[
+  {
+    "id": "OP01-078",
+    "name_en": "Boa Hancock",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "color": "BLUE",
+    "image": "https://xfreedomdota.github.io/OPTCG-Tracker/images/OP01-078.png"
+  },
+  {
+    "id": "OP01-078-ALT",
+    "name_en": "Boa Hancock (Alternate Art)",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "color": "BLUE",
+    "image": "https://xfreedomdota.github.io/OPTCG-Tracker/images/OP01-078-ALT.png"
+  },
+  {
+    "id": "ST03-006",
+    "name_en": "Boa Hancock (Starter)",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "color": "BLUE",
+    "image": "https://xfreedomdota.github.io/OPTCG-Tracker/images/ST03-006.png"
+  }
+]
